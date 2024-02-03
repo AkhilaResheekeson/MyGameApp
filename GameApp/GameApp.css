@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    margin-top: 200px;
+    background-color: rgb(36, 1, 43);
+}
+
+h1{
+    color: #daa1f8;
+}
+
+.button1{
+    padding: auto;
+    background-color: rgb(72, 247, 72);
+    font-size: 30px;
+    color: white;
+    border-radius: 10px;
+}
+
+.button2{
+    padding: auto;
+    background-color: rgb(250, 10, 10);
+    font-size: 30px;
+    color: white;
+    border-radius: 10px;
+}
+
+.button3{
+    padding: auto;
+    background-color: rgb(236, 226, 226);
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    size: 100px;
+}
+
+p{
+    color: rgb(231, 241, 87);
+    font-size: 60px;
+}
